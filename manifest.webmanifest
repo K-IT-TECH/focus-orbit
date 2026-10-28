@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "FocusOrbit",
+  "short_name": "FocusOrbit",
+  "description": "An energy-aware task board with a focus timer and session log.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111b17",
+  "theme_color": "#111b17",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
