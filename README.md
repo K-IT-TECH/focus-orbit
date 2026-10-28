@@ -2,9 +2,11 @@
 
 # FocusOrbit
 
+[**Open live app →**](https://k-it-tech.github.io/focus-orbit/)
+
 An energy-aware task board with a focus timer and session log.
 
-**Status:** Working local-first web app. Responsive, dependency-free, and ready for GitHub Pages. No backend or account system.
+**Status:** Working local-first web app. Responsive, dependency-free, and published on GitHub Pages. No backend or account system.
 
 ## Why build it?
 
@@ -20,7 +22,6 @@ Make a focus tool that adapts to energy instead of showing only a generic to-do 
 - Filter tasks to match your current energy.
 - Run, pause and reset a deadline-based focus timer.
 - Mark tasks complete and save a log when the timer finishes.
-
 - Download and restore versioned JSON backups, with validation before replacement.
 - Use the app offline after the first successful online visit (HTTPS or localhost).
 
